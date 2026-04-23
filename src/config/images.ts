@@ -10,7 +10,7 @@ export const imageConfig = {
     keyboard: '/images/4.png',
   },
   features: {
-    showcase: '/images/feature-showcase.jpg',
+    showcase: '/images/feature-showcase.JPG',
   },
 };
 
