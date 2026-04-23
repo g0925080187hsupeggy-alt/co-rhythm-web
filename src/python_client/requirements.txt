@@ -1,0 +1,2 @@
+# Python BLE 客戶端依賴
+bleak>=0.21.0
